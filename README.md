@@ -1,242 +1,81 @@
-# [SYSTEM ACCESS GRANTED] | Redrock453 
+# Redrock453
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=STRATEGIC%20INTELLIGENCE%20SYSTEM%20ARCHITECT" width="500" />
-</p>
+## Senior Systems Architect | Security Research | AI Engineering
 
-# 🛡️ Defense Technology & AI Systems Architect
-
-**Building autonomous systems for contested environments.**
+**Focus:** Autonomous systems, RF security, and multi-agent AI architectures.
 
 ---
 
-## 🎯 Mission Statement
+## Background
 
-> *"Intelligence without action is merely noise. Systems must transform raw data into decisions faster than adversaries can react."*
-
----
-
-## 🛠️ Core Capabilities
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    INTELLIGENCE ECOSYSTEM                        │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                             │
-│  📁 INTEL GATHERING    │    🧠 ANALYTICS ENGINE   │
-│  ┌─────────────────────┐  ┌───────────────────┐       │
-│  │ Documents │  │  OSINT Automation  │       │
-│  │  PDF/OCR   │  │  Web Scraping       │       │
-│  │  Images     │  │  Social Media       │       │
-│  │  Emails     │  │  Domain Intel      │       │
-│  └─────┬─────┘  └─────┬─────┘       │       │
-└─────────────┼───────────┴──────────────────┴──────────┘─►│       │
-│                      │                                  │          │
-│                      ▼                                  ▼          │
-│  ┌──────────────────────────────────────────────────────┐       │
-│  │              COGNITIVE LAYER                         │       │
-│  ┌─────────────┐  ┌───────────────────┐       │
-│  │  RAG Pipeline  │  │  Multi-Agent System │       │
-│  │  Qdrant/Milvius  │  │  LangChain/AutoGen  │       │
-│  │  Vector Search   │  │  Reasoning Engine     │       │
-│  └─────────┬───────┘  └─────────┬───────┘       │
-│                      │                                  │          │
-│                      ▼                                  ▼          │
-│  ┌──────────────────────────────────────────────────────┐       │
-│  │            DECISION ORCHESTRATOR                   │       │
-│  ┌───────────────────────────────────────────────┐       │
-│  │  Planner      │  │  Executive      │       │
-│  │  Researcher   │  │  Analyst       │       │
-│  │  Executor     │  │  Writer         │       │
-│  └───────────────────────────────────────────────┘       │
-│                      │                                  │          │
-└───────────────────────────────────────────────────────────────┘       │
-│                      │                                  │          │
-└───────────────────────────────────────────────────────────────┘       │
-└───────────────────────────────────────────────────────────────────────┘
-```
+Senior systems engineer specializing in:
+- **GSM/RF Security** — Protocol analysis, SDR operations, rogue base station detection
+- **AI/ML Systems** — RAG pipelines, multi-agent orchestration, LLM integration
+- **Infrastructure** — Docker, Kubernetes, cloud-native deployments
+- **Security Research** — Vulnerability assessment, OPSEC methodologies
 
 ---
 
-## 🧠 Technical Stack
+## Featured Work
 
-| **Domain** | **Technologies** | **Purpose** |
-|-----------|------------------|----------|
-| **AI/ML** | LangChain, AutoGen | Multi-agent orchestration |
-| **RAG** | Qdrant, Milvius, Pinecone | Semantic intelligence |
-| **NLP** | Spacy, Tesseract | Entity extraction |
-| **OSINT** | Scrapy, Playwright | Open-source intelligence |
-| **Backend** | FastAPI, PostgreSQL | High-performance APIs |
-| **Infra** | Docker, K8s | Cloud-native deployment |
-| **Security** | Metasploit, OWASP | Vulnerability assessment |
-| **RF/SDR** | HackRF, BladeRF, LimeSDR | Spectrum operations |
+### gsm-fake-points-guide
+**GSM Security Research & Rogue BTS Detection**
 
----
+Technical analysis of GSM network vulnerabilities with comprehensive documentation:
+- Protocol stack analysis (L1/L2/L3) and attack vectors
+- Cell selection algorithms (C1/C2) and manipulation techniques
+- IMSI capture methodology and blue team countermeasures
+- RF hardware reference implementations
 
-## 🎖 Featured Projects
-
-### ⭐ gsm-fake-points-guide
-**GSM Security Analysis & Rogue BTS Detection**
-
-Complete whitepaper-level research on GSM network vulnerabilities:
-- Protocol stack analysis (L1/L2/L3)
-- Cell selection algorithms (C1/C2)
-- IMSI capture methodology
-- Blue Team detection methods
-- RF hardware reference
-
-**Impact:** `Redefining how security researchers understand and counter rogue base stations.`
+**Repository:** [github.com/Redrock453/gsm-fake-points-guide](https://github.com/Redrock453/gsm-fake-points-guide)
 
 ---
 
-### ⚡ strategic-intelligence-ai
-**Document Processing + OSINT Automation + Multi-Agent Orchestration**
+### strategic-intelligence-ai
+**Document AI & OSINT Automation Platform**
 
-```
-Autonomous intelligence system for document processing, 
-OSINT automation, and strategic decision support.
+Autonomous intelligence system combining three core capabilities:
+1. **Document Processing Pipeline** — Automated ingestion, OCR, entity extraction
+2. **OSINT Automation** — Web scraping, social analysis, domain intelligence
+3. **Multi-Agent Orchestrator** — LangChain/AutoGen-based decision systems
 
-Core Components:
-• RAG Pipeline with vector search (Qdrant/Milvius)
-• Multi-agent orchestrator (LangChain/AutoGen)
-• OSINT automation modules (web/social/domain)
-• LLM integration (Gemini/Claude)
-• Real-time dashboard (Streamlit)
-```
+**Tech Stack:** Qdrant, FastAPI, Gemini 2.5, Docker, PostgreSQL
 
-**Impact:** `Transforming raw data into actionable intelligence faster than adversaries can react.`
+**Repository:** [github.com/Redrock453/strategic-intelligence-ai](https://github.com/Redrock453/strategic-intelligence-ai)
 
 ---
 
-### 🌐 TacticalMesh
-**LoRa Mesh Network for Infrastructure-Denied Environments**
+## Technical Expertise
 
-Decentralized tactical communications using LoRa technology:
-- Long-range, low-power communication
-- Infrastructure-denied zone support
-- Off-grid resilient architecture
-
-**Impact:** `Enabling communications when traditional infrastructure fails.`
-
----
-
-### 📊 BAS-SUPERGROK
-**AI-Powered Multi-Agent Tactical Systems**
-
-Multi-agent decision support system with:
-- Task decomposition and planning
-- Parallel agent execution
-- Human-in-the-loop coordination
-- Strategic option generation
-
-**Impact:** `AI-powered tactical decision support for complex operational scenarios.`
+| Domain | Technologies | Focus |
+|---------|-------------|--------|
+| **RF/SDR** | HackRF, BladeRF, LimeSDR, GNU Radio | Spectrum analysis, GSM monitoring |
+| **AI/ML** | LangChain, AutoGen, Qdrant, Milvius | RAG systems, agent orchestration |
+| **Backend** | FastAPI, PostgreSQL, Redis | High-performance APIs |
+| **DevOps** | Docker, Kubernetes, CI/CD | Infrastructure automation |
+| **Security** | Metasploit, OWASP, Nmap | Vulnerability research |
 
 ---
 
-## 🛠 Skills & Expertise
+## Research Interests
 
-| **Area** | **Level** | **Description** |
-|----------|----------|--------------|
-| **RF/SIGINT** | Expert | GSM protocol analysis, SDR operations, spectrum monitoring |
-| **AI/ML** | Expert | RAG systems, LLM orchestration, multi-agent workflows |
-| **OSINT** | Expert | Automated intelligence gathering, web scraping, social analysis |
-| **Security** | Expert | Vulnerability assessment, penetration testing, threat modeling |
-| **DevOps** | Expert | Docker, Kubernetes, CI/CD, infrastructure automation |
-| **Comms** | Practitioner | LoRa mesh, off-grid networks, signal systems |
+**Autonomous Defense Systems**
 
----
+Building next-generation intelligence systems that:
+1. Learn from data patterns without explicit reprogramming
+2. Predict threats before they materialize
+3. Recommend courses of action automatically
+4. Adapt to changing threat landscapes in real-time
 
-## 🎯 Current Focus
-
-**Primary Research Area:** **Autonomous Defense Systems**
-
-Developing next-generation intelligence systems that:
-1. **Learn** from data patterns without explicit reprogramming
-2. **Predict** threats before they materialize
-3. **Recommend** courses of action automatically
-4. **Adapt** to changing threat landscapes in real-time
-
-**Research Question:** *How can multi-agent systems autonomously identify and neutralize asymmetric threats in contested environments?*
+**Core Question:** *How can multi-agent systems autonomously identify and neutralize asymmetric threats in contested environments?*
 
 ---
 
-## 📊 Project Statistics
+## Contact
 
-```
-Total Public Repositories:    3
-Total Private Repositories:    47
-Total Commits in 2026:      1,247
-Primary Languages:           Python, Bash, JavaScript
-Lines of Code:               50,000+
-```
+- **GitHub:** [github.com/Redrock453](https://github.com/Redrock453)
+- **Email:** via GitHub
 
 ---
 
-## 🔗 System Architecture
-
-```
-Target ──► [Raw Data]
-               │
-               ▼
-    ┌─────────────┴─────────────────────────────┐
-    │             Ingestion Engine               │
-    │     ┌──────────┐  ┌──────────┐        │
-    │     │  Docs │  │  Images │  │        │
-    │     └───┬───────┴───┬───────┘        │
-    │                     ▼                          ▼
-    │                      ┌──────────────────────────────┐
-    │                      │ Vector Store + LLM Layer       │
-    │                      │  ┌─────────────────────────┐    │
-    │                      │  │  RAG Retrieval       │    │    │
-    │                      │  └───────────────────────┴─────┘        │
-    │                                 │                        │
-    └─────────────────────────────────────────────────────────────┘
-                                 ▼
-                                     Decision Support
-                                          │
-                                     ┌─────────────────────┐
-                                     │  Course of Action  │
-                                     └─────────────────────┘
-                                          │
-                                       Output Layer
-                                       (Web Dashboard / CLI / API)
-```
-
----
-
-## 🤝 Contact
-
-- **GitHub:** [Redrock453](https://github.com/Redrock453)
-- **Email:** [Contact via GitHub](mailto:Redrock453@users.noreply.github.com)
-- **Status:** Active Development
-- **Timezone:** EET (UTC+2)
-
----
-
-## 📜 Documentation
-
-### Whitepapers
-- [GSM Security Analysis](https://github.com/Redrock453/gsm-fake-points-guide) — Full GSM protocol analysis
-
-### Technical Blog
-- [Strategic Intelligence AI](https://github.com/Redrock453/strategic-intelligence-ai) — Document AI & OSINT automation
-
----
-
-## 🎓 Quotes
-
-> *"The best defense is knowing how you can be attacked and building systems to detect it."*
-> *"Intelligence without action is merely noise. Systems must transform raw data into decisions faster than adversaries can react."*
-> *"In contested environments, traditional cloud dependencies are vulnerabilities. Autonomy is resilience."*
-
----
-
-<p align="center">
-  <em>Building the future of autonomous defense systems.</em>
-  <br>
-  <strong>[Redrock453](https://github.com/Redrock453)</strong>
-</p>
-
----
-
-*[Last updated: February 2025]*
+*Last updated: February 2026*
