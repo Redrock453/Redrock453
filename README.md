@@ -57,7 +57,15 @@ Autonomous intelligence system combining three core capabilities:
 
 ---
 
-## Research Interests
+## Research Philosophy
+
+> *"The best defense is knowing how you can be attacked and building systems to detect it."*
+
+> *"Intelligence without action is merely noise. Systems must transform raw data into decisions faster than adversaries can react."*
+
+> *"In contested environments, traditional cloud dependencies are vulnerabilities. Autonomy is resilience."*
+
+---
 
 **Autonomous Defense Systems**
 
