@@ -133,18 +133,6 @@ Multi-agent decision support system with:
 
 ---
 
-### 🔧 docker-vps
-**Signal Bot for 158 ПДГ**
-
-Operational bot for family communications:
-- Web control panel
-- Docker containerization
-- Multi-service architecture
-
-**Impact:** `Secure, automated communication channel for distributed operations.`
-
----
-
 ## 🛠 Skills & Expertise
 
 | **Area** | **Level** | **Description** |
