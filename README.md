@@ -142,13 +142,13 @@
 
 ## 🧹 Cleanup Status
 
-| Category | Count | Action |
-|----------|-------|--------|
-| 🗑️ Delete | 35+ repos | Docker backups, unknowns, duplicates |
-| 🔄 Merge | 20+ repos | Consolidate into main projects |
-| ✅ Keep | 45+ repos | Active projects with clear purpose |
+| Category | Result |
+|----------|--------|
+| 🗑️ Deleted | **30 repos** removed from GitHub |
+| 🔄 Merged | archives consolidated into main repos (`merged/` dir) |
+| ✅ Remaining | **81 active repos** |
 
-> Full cleanup plan: [CLEANUP_LIST.md](CLEANUP_LIST.md)
+> ✅ Cleanup complete 2026-05-17. Details: [CLEANUP_LIST.md](CLEANUP_LIST.md)
 
 ---
 
