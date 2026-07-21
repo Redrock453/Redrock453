@@ -1,16 +1,16 @@
-### Tactical Systems Engineer · AI × RF × Security
+# Redrock453
 
-Building the intersection few people work in: LLM agents that
-drive real hardware — SDR, RF mesh, drones, offline inference.
+Systems engineer. I build resilient infrastructure at the intersection of
+autonomous AI, mesh networking, and radio-free communications.
 
-🛰️ **[tactical-fiber-network](https://github.com/Redrock453/tactical-fiber-network)**
-— fiber-optic tactical mesh, multi-sensor, RF-resilient
+## Flagship projects
 
-🔒 **[metasploit-mcp-server](https://github.com/Redrock453/metasploit-mcp-server)**
-— Metasploit ⇄ Claude via MCP
+| Project | What it is |
+|---------|------------|
+| [Resilient Fiber Mesh](https://github.com/Redrock453/resilient-fiber-mesh) | Radio-free field mesh: fiber links + BATMAN-adv + WireGuard. No spectrum, no interference, no emissions. |
+| [GRIM Voice](https://github.com/Redrock453/grim-voice) | Offline push-to-talk voice control for headless Linux (TTY, no cloud). |
+| [Vika](https://github.com/Redrock453/vika-hybrid-router) | Hybrid LLM router: local + cloud backends, cost-aware routing, Qdrant RAG. |
 
-🤖 **[carrie-ai-agent-ecosystem](https://github.com/Redrock453/carrie-ai-agent-ecosystem)**
-— autonomous security agent ecosystem (12+ integrated tools)
+## Contact
 
-**Stack:** Python · TypeScript · Shell · C++/ESP32 · llama.cpp · Docker · Linux
-**Focus:** on-device LLMs, autonomous agents, RF/DSSS, MCP tooling
+Email · LinkedIn
